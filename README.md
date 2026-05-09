@@ -6,5 +6,5 @@
 **Hello from Rajratna Tayade**
 >Email= rajratnatayade2002@gmail.com
 > ## [LinkedIn Profile](https://www.linkedin.com/in/rajratna-tayade-624606343/)
-> ## [Portfolio](https://www.datascienceportfol.io/rajratnatayade2002)
+>
 > ## [Portfolio website](https://rajratnatayadeportfolio.base44.app/)
